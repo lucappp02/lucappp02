@@ -31,7 +31,8 @@ Hi there! I’m **Luca**, a soon-to-be graduate in *Theoretical Physics* from th
 ## 🔧 Toolbox
 
 **Languages:** Python, Julia, MATLAB, C  
-**Quantum Tools:** Qiskit, Pulser, QuanEstimation, MOSEK  
+**Other Tools:** Qiskit, Pulser, QuanEstimation, MOSEK  
+
 **Specialties:**  
 - Simulating complex quantum dynamics  
 - Optimization algorithms 
