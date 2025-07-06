@@ -13,6 +13,7 @@ Hi there! I’m **Luca**, a soon-to-be graduate in *Theoretical Physics* from th
 ### 💧 **OH Molecule as a Quantum Probe for Joint Estimation of Electric and Magnetic Fields**
 **Topic:** Using the **OH molecule** as a quantum sensor to estimate field parameters, analyzing sensitivity and compatibility of the parameters across several scenarios and applying a quantum control scheme to enhance sensitivity.  
 **Tools:** Multi-parameter quantum metrology, quantum control.  
+
 **Results:**  
 - Derived ultimate precision bounds for ground states, thermal ensembles and several dynamical states.  
 - Designed a control scheme to restore quadratic time scaling (lost due to non-commutativity) and proved its robustness.  
@@ -21,6 +22,7 @@ Hi there! I’m **Luca**, a soon-to-be graduate in *Theoretical Physics* from th
 ### 💌 **Contact Your Quantum Friends: Genetic Optimization of Chiral Quantum Routing**
 **Topic:** Optimizing chiral phases to route quantum information through networks with given topology via continuous-time quantum walks.  
 **Tools:** Chiral quantum walks, genetic algorithms.  
+
 **Results:**  
 - Characterized performance of 4-, 5-, and 6-output quantum routers.  
 - Implemented a genetic algorithm to route both classical and quantum information efficiently.  
@@ -63,6 +65,7 @@ I’m actively seeking **PhD and job opportunities** or **research roles** in:
 ## 😺 About Me
 
 🇮🇹 Native Italian | 🇬🇧 Fluent English 
+
 ⛰️ **Outdoors:** Rock climber, alpinist, ski mountaineer.  
 ♟️ **Projects:** Building a chess engine from scratch!
 
