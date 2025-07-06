@@ -7,7 +7,7 @@ Hi there! I’m **Luca**, a soon-to-be graduate in *Theoretical Physics* from th
 ## 🔭 Current Research
 
 ### ⚛️ **Master’s Thesis (WIP)**
-**Topic:** Deriving and achievng fundamental precision limits for **time-dependent signals** under **Markovian noise**.  
+**Topic:** Deriving and attaining fundamental precision limits for **time-dependent signals** under **Markovian noise**.  
 **Tools:** Quantum metrology, quantum control, quantum error correction, semidefinite programming.
 
 ### 💧 **OH Molecule as a Quantum Probe to Jointly Estimate Electric and Magnetic Fields**
