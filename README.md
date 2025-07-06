@@ -10,7 +10,7 @@ Hi there! I’m **Luca**, a soon-to-be graduate in *Theoretical Physics* from th
 **Topic:** Deriving and achievng fundamental precision limits for **time-dependent signals** under **Markovian noise**.  
 **Tools:** Quantum metrology, quantum control, quantum error correction, semidefinite programming.
 
-### 💧 **OH Molecule as a Quantum Probe for Joint Estimation of Electric and Magnetic Fields**
+### 💧 **OH Molecule as a Quantum Probe to Jointly Estimate Electric and Magnetic Fields**
 **Topic:** Using the **OH molecule** as a quantum sensor to estimate field parameters, analyzing sensitivity and compatibility of the parameters across several scenarios and applying a quantum control scheme to enhance sensitivity.  
 **Tools:** Multi-parameter quantum metrology, quantum control.  
 
@@ -19,7 +19,7 @@ Hi there! I’m **Luca**, a soon-to-be graduate in *Theoretical Physics* from th
 - Designed a control scheme to restore quadratic time scaling (lost due to non-commutativity) and proved its robustness.  
 ➡️ [**Preprint on arXiv**](https://arxiv.org/abs/2505.13634) | Submitted to *PRA*.
 
-### 💌 **Contact Your Quantum Friends: Genetic Optimization of Chiral Quantum Routing**
+### 💌 **Contact Your Quantum Friends! A Genetic Approach to Chiral Quantum Routing**
 **Topic:** Optimizing chiral phases to route quantum information through networks with given topology via continuous-time quantum walks.  
 **Tools:** Chiral quantum walks, genetic algorithms.  
 
