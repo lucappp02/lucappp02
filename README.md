@@ -1,29 +1,29 @@
-# 🐐 Luca — Quantum Physicist
+# 🐐 Luca — Quantum Physics
 
-Hi there! I’m **Luca**, a soon-to-be graduate in *Theoretical Physics* from the University of Bologna, with a background in *Physics* from the University of Milan. I’m passionate about quantum technologies, specializing in **quantum metrology**, **quantum control**, and **quantum networks**—always eager to explore new frontiers in physics.
+Hi there! I’m **Luca**, a soon-to-be graduate in *Theoretical Physics* from the University of Bologna, with a background in *Physics* from the University of Milan. I’m passionate about quantum technologies, specializing in **quantum metrology**, **quantum control** and **quantum networks** — always happy to learn new physics!
 
 ---
 
 ## 🔭 Current Research
 
 ### ⚛️ **Master’s Thesis (WIP)**
-**Topic:** Deriving and testing fundamental precision limits for **time-dependent signals** under **Markovian noise**.  
+**Topic:** Deriving and achievng fundamental precision limits for **time-dependent signals** under **Markovian noise**.  
 **Tools:** Quantum metrology, quantum control, quantum error correction, semidefinite programming.
 
 ### 💧 **OH Molecule as a Quantum Probe for Joint Estimation of Electric and Magnetic Fields**
-**Topic:** Using the **OH molecule** as a quantum sensor to estimate field parameters, analyzing sensitivity/compatibility across scenarios, and applying quantum control to recover lost precision from non-commutativity.  
+**Topic:** Using the **OH molecule** as a quantum sensor to estimate field parameters, analyzing sensitivity and compatibility of the parameters across several scenarios and applying a quantum control scheme to enhance sensitivity.  
 **Tools:** Multi-parameter quantum metrology, quantum control.  
 **Results:**  
-- Derived ultimate precision bounds for ground states, thermal ensembles, and dynamical states.  
+- Derived ultimate precision bounds for ground states, thermal ensembles and several dynamical states.  
 - Designed a control scheme to restore quadratic time scaling (lost due to non-commutativity) and proved its robustness.  
 ➡️ [**Preprint on arXiv**](https://arxiv.org/abs/2505.13634) | Submitted to *PRA*.
 
 ### 💌 **Contact Your Quantum Friends: Genetic Optimization of Chiral Quantum Routing**
-**Topic:** Optimizing chiral phases to route quantum information through random networks via continuous-time quantum walks.  
+**Topic:** Optimizing chiral phases to route quantum information through networks with given topology via continuous-time quantum walks.  
 **Tools:** Chiral quantum walks, genetic algorithms.  
 **Results:**  
 - Characterized performance of 4-, 5-, and 6-output quantum routers.  
-- Implemented a genetic algorithm to route quantum/classical information efficiently.  
+- Implemented a genetic algorithm to route both classical and quantum information efficiently.  
 ➡️ [**GitHub Repo**](https://github.com/lucappp02/Contact_your_quantum_friends)
 
 ---
@@ -52,7 +52,7 @@ University of Milan
 
 ## 🌈 What’s Next?
 
-I’m actively seeking **PhD and job opportunities** and **research roles** in:  
+I’m actively seeking **PhD and job opportunities** or **research roles** in:  
 - Quantum technologies  
 - Quantum computing  
 *(Open to unexpected collaborations!)*
